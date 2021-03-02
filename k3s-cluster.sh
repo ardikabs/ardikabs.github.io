@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 SERVER="k3s-control-plane"
 LOCALHOST=$(hostname -i)

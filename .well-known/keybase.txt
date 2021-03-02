@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/ardikabs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://site.ardikabs.com
+  * I am ardikabs (https://keybase.io/ardikabs) on keybase.
+  * I have a public key with fingerprint FA52 F24B 6091 8D62 EEB8  77FD 1461 4438 DAE7 13EB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fe53f4effa72cc75065020aa80bc6b292d0aa5f4456258decd7caeabb13a9ac90a",
+      "fingerprint": "fa52f24b60918d62eeb877fd14614438dae713eb",
+      "host": "keybase.io",
+      "key_id": "14614438dae713eb",
+      "kid": "01019ddd25401cee01f3bfea00b14c38cba3c286ebb6602b6af6056aa448723ec0930a",
+      "uid": "777edba1c1c82d67ad4426f84e08f119",
+      "username": "ardikabs"
+    },
+    "service": {
+      "hostname": "site.ardikabs.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1614684205,
+  "expire_in": 157680000,
+  "prev": "a92041be01aa307c3d336db85b0c82254db12e23f4802d0d67fa061baa03530c",
+  "seqno": 64,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMJeAnicbVJ/aFVVHH8rXflANMSGMEQvEkWv5/l1z73vMWX4hxEuMKtp+ON1fnzv
+dpu793Xv3dO1hkOCIrUgtqhgiQmWrIVOlMnox2KZVEyoFBYKNqakc+Qf00hBPfeh
+9E/nn8P3nM/3cz6fz/mOzX84k6355MYrl5q71j9W8/Nof0fm1dXLnumyZKg7rWKX
+1QbVDbZriJNSm6+tooUwwh7Y1GPgecIhSjk24jYiSAgXScUlKRBtCttjzObEdjUo
+7SgBQkpMRUGoAhJWzvL8oAWicuQHiaH1hE08wiRHBexqTgCk6ziexoxjxqirBTiY
+gjSNrWGcdhhxUsSQ90NzZopSVd7/4P/TXdBaE5shrACMCyo9EAhJzBR1lRRUEZeD
+lJwjIrnwOLK5EIy5DqGgUIFWdXdU6RzHAS0FVli5RHNHaMYI91wGyPUwLqTAGKJA
+tINBi0j7bULGVnfOMqcVX0EabOrkPiL2E8g/gOVV2G4IylGYhCrcbq5bk6QcF9P2
+pLOc4neALN1nKkk/0CZM01GBKPbDwCpig1SJn1JjEwh3GUF2zoKdZT+Ckp8ibIe7
+yKz0HaikIgsEMSxNMkJQ5CiqKeVaurZExqPJTUtMgJifd5H5YWPaE4hjKQSiNkXK
+Sr29HoRWkTOjU7RUbbUEIumIwOr+/rstczI12Uzt3IfSKctk5y18MHvUfeRu61+n
+LxxefaThtenc6SR/9dmldSu+qYvoC1NLe5/Y/e2prfOg550PJ0c/mhyPmzbN2sNP
+jz01cnF5R27TF8v6jk9PHPi4PjOg324/M7K431kRDzbdzeOhoHHj0MBvd94a2bhl
+MPvHun+eXP/Bn9BXWX7570ffb24Wk6v27PW/zI4vHpttcI6d+3X84Nptsz/Vnvn8
+0u343w1zs4MNV272vFi3tbt3ycpTrV8PXHt54vLMrfceP9t0dd9Lhz+bObjEO6tz
+J84P9QWHRt9sjHrp5t+HTx5p2t+/oL5xpnf/0eLU9R92rZz48fnahYdOliYre+s3
+X1z17jRdd6Bu+tyCr567RT7tHO5545dFG6bW3APS90jh
+=A3Bi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ardikabs
+
+==================================================================

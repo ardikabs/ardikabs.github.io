@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 if ! type curl >/dev/null 2>&1; then
   echo "error: curl command not found" >&2
